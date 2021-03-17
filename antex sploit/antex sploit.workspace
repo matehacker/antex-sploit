@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="antex sploit" Database="" Version="10.0.0">
+  <Project Name="lonktados" Path="../lonktados/lonktados.project" Active="Yes"/>
+  <Project Name="antexsploit" Path="antexsploit/antexsploit.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="lonktados" ConfigName="Debug"/>
+      <Project Name="antexsploit" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="lonktados" ConfigName="Debug"/>
+      <Project Name="antexsploit" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
